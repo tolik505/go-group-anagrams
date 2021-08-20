@@ -1,3 +1,3 @@
 # go-group-anagrams
 
-A naive approach of groping anagrams.
+A naive approach of grouping anagrams.
